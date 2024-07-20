@@ -1,6 +1,6 @@
 # Analysis-of-Brazilian-E-Commerce-Data
 
-he Brazilian E-Commerce dataset, provided by OList Store, consists of data on about 100K orders
+The Brazilian E-Commerce dataset, provided by OList Store, consists of data on about 100K orders
 placed from 2016-2018 at various marketplaces. The data was provided by OList, the largest department
 store in Brazilian marketplaces.The dataset allows us to view the order details from multiple dimensions:
 from order status, price, payment and freight performance to customer location, product attributes and
